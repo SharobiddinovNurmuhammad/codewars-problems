@@ -1,1 +1,1 @@
-# e-commerce-bot
+# codewars-problems
