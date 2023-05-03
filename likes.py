@@ -6,7 +6,6 @@ We want to create the text that should be displayed next to such an item.
 -Sharobiddinov
 '''
 
-
 def likes(names):
     if len(names) == 0:
         return f"no one likes this"
